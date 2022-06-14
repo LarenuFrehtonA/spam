@@ -1,2 +1,1 @@
-# spam
-sp4mBot
+# sp4mBot
