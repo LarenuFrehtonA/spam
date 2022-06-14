@@ -16,3 +16,6 @@ print("sending..")
 
 for i in range(0,int(str)):
 	pyautogui.typewrite(message + '\n')
+
+	
+#CreatedByLethe
