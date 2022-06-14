@@ -12,7 +12,7 @@ while(count != 0):
 	time.sleep(1)
 	count -= 1
 
-print("sending..")
+print("sending..!")
 
 for i in range(0,int(str)):
 	pyautogui.typewrite(message + '\n')
